@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=p1\ e1
+comment0.target=BattleMenu(Player,\ Enemy)
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ BattleMenu\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=BattleMenu()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

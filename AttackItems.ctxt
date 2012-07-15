@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=void\ setNum(int)
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ AttackItems\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=text\ p1\ e1
+comment1.target=AttackItems(java.lang.String,\ Player,\ Enemy)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

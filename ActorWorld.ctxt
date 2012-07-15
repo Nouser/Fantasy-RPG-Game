@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ActorWorld()
+comment1.params=fileName
+comment1.target=void\ initialPopulate(java.lang.String)
+comment2.params=fileName
+comment2.target=void\ populate(java.lang.String)
+comment3.params=p\ direction
+comment3.target=void\ setPlayer(Player,\ int)
+numComments=4
